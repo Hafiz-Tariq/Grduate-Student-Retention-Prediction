@@ -1,1 +1,8 @@
 # Grduate-Student-Retention-Prediction
+Client's Goal: The client's objective for this project was to develop a predictive model that could accurately identify graduate students who were at risk of dropping out of their programs. The goal was to provide timely interventions and support to improve student retention rates.
+
+My Contribution: I conducted in-depth data analysis on a comprehensive dataset of historical student records. Through thorough feature engineering and data preprocessing techniques, I identified key factors that could potentially impact student retention. To build the predictive model, I applied various machine learning algorithms, including Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Random Forest. By comparing the performance of these models, I determined that Random Forest yielded the best results in terms of accuracy and predictive power.
+
+Project Success: The predictive models I developed achieved success rates ranging from 90% to 92%, varying across the different algorithms. Notably, the Random Forest model consistently outperformed the other models, demonstrating its effectiveness in accurately identifying at-risk students. By leveraging the predictive power of these models, the client was able to proactively allocate resources and implement targeted interventions, resulting in a significant improvement in the overall graduate student retention rate.
+
+This project showcased my expertise in data analysis, machine learning algorithms, and the ability to deliver actionable insights to address real-world challenges in the education sector.
